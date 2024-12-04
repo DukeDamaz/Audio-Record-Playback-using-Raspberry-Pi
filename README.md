@@ -1,8 +1,8 @@
 **IMPORTANT README. READ THIS FOR CLEAR INSTRUCTIONS ON HOW TO MAKE THIS PROJECT WORK SUCCESSFULLY**
 
 
-**# Audio-Record-Playback-using-Raspberry-Pi
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**# Audio-Record-Playback-using-Raspberry-Pi**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is a simple project to record and playback audio using a raspberry pi in mp3 format
 The project uses two push buttons to record and playback audio.
