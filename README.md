@@ -12,14 +12,19 @@ When the play button is pressed, the project plays the recorded audio through a 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **COMPONENTS:**
+
 1-Raspberry Pi 4B
+
 2- Micro SD Card
+
 3- USB Microphone
+
 4- USB/AUX Speaker
 
 
-**How to setup:
-**
+
+**How to setup:**
+
 1- Format the sd card as fat32
 
 
