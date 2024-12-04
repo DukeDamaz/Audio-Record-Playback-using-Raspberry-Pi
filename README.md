@@ -9,7 +9,8 @@ When the record button is long pressed, the project starts recording audio.
 When the record button is released, the project stops recording and the audio is saved first as a .wav file and is then encoded into .mp3 format using pydub and saved onto the sd card in the raspberry pi 4.
 The recording is saved in a directory called "recordings". If the directory doesnt already exist, the python script automatically creates the directory and saves the audio in the directory.
 When the play button is pressed, the project plays the recorded audio through a usb speaker.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **COMPONENTS:**
 
@@ -20,10 +21,10 @@ When the play button is pressed, the project plays the recorded audio through a 
 3- USB Microphone
 
 4- USB/AUX Speaker
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-**How to setup:**
+**HOW TO SETUP:**
 
 1- Format the sd card as fat32
 
