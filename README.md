@@ -112,8 +112,13 @@ Pyaudio:
     pip install pyaudio
 
 
+16- Connect one pin of the push putton to gpio 17 (pin 11 on raspberry pi 4) and the other to GND on the raspberry pi 4 gpio pins. This will be the Record Button.
 
-16- Run the python script using:
+
+17- Connect one pin of the push putton to gpio 18 (pin 12 on raspberry pi 4) and the other to GND on the raspberry pi 4 gpio pins. This will be the Plsy Button.
+
+
+18- Run the python script using:
     
     python3 audio_recorder.py
 
